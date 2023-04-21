@@ -18,6 +18,9 @@ public class Question4
      */
      
     Scanner in = new Scanner(System.in);
-    
+    // Prompt for integer
+    System.out.print("Input integer for base of triangle: ");
+    int triBase=in.nextInt();
+    for ()
   }
 }
