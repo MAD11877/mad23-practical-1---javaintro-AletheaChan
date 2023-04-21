@@ -11,6 +11,10 @@ public class Question3
      */
      
     Scanner in = new Scanner(System.in);
-    
+    // Prompt for integer
+    System.out.print("Input integer to multiply: ");
+    int toMultiply=in.nextInt();
+    // Multiplication of integer
+    System.out.println("The multiplied result is "+(toMultiply*toMultiply));
   }
 }
