@@ -12,7 +12,7 @@ public class Question4
     {
       for (int j=triBase; j>=i; j--)
       {
-        //System.out.print("*");
+        System.out.print("*");
       }
       System.out.println();
     }
